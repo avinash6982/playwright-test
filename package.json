@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fast-csv": "^5.0.1",
     "playwright": "^1.39.0"
   },
   "devDependencies": {
